@@ -22,5 +22,5 @@
 - E. Open challenges/Transition to future work section?
   - The gazetteer problem/candidate selection
   - English-centric tools
-  - ...
+  - places without place names/private places vs. public places
 
