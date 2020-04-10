@@ -8,15 +8,13 @@ This half-day tutorial will be divided into five sessions:
 are reflected in natural language and in text;
 
 2. **Toponym recognition and resolution**: key to most geographically inspired
-analysis are the use of place-names in text, their identification, disambigua-
-tion, and resolution to unique locations;
+analysis are the use of place-names in text, their identification, disambiguation, and resolution to unique locations;
 
 3. **Geographic relevance and ranking**: methods for incorporating geographic
 information in IR indexes and ranking algorithms. Discuss what is geographic
 relevance, and how it varies with context and application domain;
 
-4. **Applications**: Concrete examples for the application of the introduced meth-
-ods, in fields ranging from Digital Humanities to Web search, together with
+4. **Applications**: Concrete examples for the application of the introduced methods, in fields ranging from Digital Humanities to Web search, together with
 a discussion on requirements and their implications on algorithmic and data
 choices;
 
