@@ -18,7 +18,7 @@
 
 1500-1520 ECIR Coffee break
 
-1520-1620 Applications (Katy)
+1520-1620 Applications (Katie)
 
 1620-1630 Q&A and coffee
 
