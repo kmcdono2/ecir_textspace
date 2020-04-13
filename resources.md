@@ -28,7 +28,7 @@ Clifford, Jim, Beatrice Alex, Colin M. Coates, Ewan Klein, and Andrew Watson. �
 
 Coll Ardanuy, Mariona, and Caroline Sporleder. “Toponym Disambiguation in Historical Documents Using Semantic and Geographic Features.” In Proceedings of the 2nd International Conference on Digital Access to Textual Cultural Heritage, DATeCH 2017, Göttingen, Germany, June 1-2, 2017, 175–80, 2017. https://doi.org/10.1145/3078081.3078099.
 
-Coll Ardanuy, Mariona, Katherine McDonough, Amrey Krause, Daniel C S Wilson, Kasra Hosseini, and Daniel van Strien. 2019. Resolving places, past and present: toponym resolution in historical british newspapers using multiple resources. In Proceedings of the 13th Workshop on Geographic Information Retrieval (GIR ’19). Association for Computing Machinery, New York, NY, USA, Article 3, 1–6. DOI:https://doi.org/10.1145/3371140.3371143 [paper](https://bl.iro.bl.uk/work/ff87acd4-f5e0-4870-b8cd-63d82fcc36d8)[code](https://github.com/Living-with-machines/lwm_GIR19_resolving_places)
+Coll Ardanuy, Mariona, Katherine McDonough, Amrey Krause, Daniel C S Wilson, Kasra Hosseini, and Daniel van Strien. 2019. Resolving places, past and present: toponym resolution in historical british newspapers using multiple resources. In Proceedings of the 13th Workshop on Geographic Information Retrieval (GIR ’19). Association for Computing Machinery, New York, NY, USA, Article 3, 1–6. DOI:https://doi.org/10.1145/3371140.3371143 [[paper]](https://bl.iro.bl.uk/work/ff87acd4-f5e0-4870-b8cd-63d82fcc36d8)[[code]](https://github.com/Living-with-machines/lwm_GIR19_resolving_places)
 
 Cooper, David, Department of Philosophy David Cooper, Christopher Donaldson, and Patricia Murrieta-Flores. Literary Mapping in the Digital Age. Routledge, 2016.
 
