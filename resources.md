@@ -62,5 +62,7 @@ Santos, Rui, Patricia Murrieta-Flores, Pável Calado, and Bruno Martins. “Topo
 
 Simon, Rainer, Elton Barker, Leif Isaksen, and Pau de Soto Cañamares. “Linking Early Geospatial Documents, One Place at a Time: Annotation of Geographic Documents with Recogito.” E-Perimetron 10, no. 2 (2015): 49–59.
 
+Stell, John G. “Qualitative Spatial Representation for the Humanities.” International Journal of Humanities and Arts Computing 13, no. 1–2 (October 1, 2019): 2–27. https://doi.org/10.3366/ijhac.2019.0228.
+
 Taylor, Joanna E., Ian N. Gregory, and Christopher Donaldson. “Combining Close and Distant Reading: A Multiscalar Analysis of the English Lake District’s Historical Soundscape.” International Journal of Humanities and Arts Computing 12, no. 2 (October 1, 2018): 163–82. https://doi.org/10.3366/ijhac.2018.0220.
 
