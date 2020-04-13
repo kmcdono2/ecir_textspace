@@ -52,6 +52,8 @@ Murrieta-Flores, Patricia, and Ian Gregory. “Further Frontiers in GIS: Extendi
 
 Murrieta-flores, Patricia, and Naomi Howell. “Towards the Spatial Analysis of Vague and Imaginary Place and Space: Evolving the Spatial Humanities through Medieval Romance.” Journal of Map & Geography Libraries 13, no. 1 (January 2, 2017): 29–57. https://doi.org/10.1080/15420353.2017.1307302.
 
+Murrieta-Flores, Patricia, Mariana Favila-Vázquez, and Aban Flores-Morán. “Spatial Humanities 3.0: Qualitative Spatial Representation and Semantic Triples as New Means of Exploration of Complex Indigenous Spatial Representations in Sixteenth Century Early Colonial Mexican Maps.” International Journal of Humanities and Arts Computing 13, no. 1–2 (October 1, 2019): 53–68. https://doi.org/10.3366/ijhac.2019.0231.
+
 Porter, Catherine, Paul Atkinson, and Ian N. Gregory. “Space and Time in 100 Million Words: Health and Disease in a Nineteenth-Century Newspaper.” International Journal of Humanities and Arts Computing 12, no. 2 (October 2018): 196–216. https://doi.org/10.3366/ijhac.2018.0222.
 
 Purves, Ross S., and Curdin Derungs. “From Space to Place: Place-Based Explorations of Text.” International Journal of Humanities and Arts Computing 9, no. 1 (March 1, 2015): 74–94. https://doi.org/10.3366/ijhac.2015.0139.
