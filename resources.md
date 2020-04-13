@@ -5,7 +5,7 @@
 - [ACM SIGSPATIAL](https://www.sigspatial.org/)
 - [ACM SIGSPATIAL Workshop on Geospatial Humanities](https://bgmartins.github.io/sigspatial-geohumanities/)
   - [SIGSPATIAL Geohumanities 2019 Workshop Report](https://dl.acm.org/doi/abs/10.1145/3383653.3383664)
-- [Workshop on Geographic Information Retrieval]((http://www.geo.uzh.ch/~rsp/gir19/index.html))(annual)
+- [Workshop on Geographic Information Retrieval](http://www.geo.uzh.ch/~rsp/gir19/index.html)(annual)
 - [GeoHumanities Special Interest Group (SIG)](https://geohumanities.org/?page_id=2) of the Alliance of Digital Humanities Organizations (ADHO) @GeoHum_SIG
 - [Spatial Humanities 2020](https://www.lancaster.ac.uk/dighum/sh2020/)
 - [DH conference, organized by ADHO](http://adho.org/) @ADHOrg
