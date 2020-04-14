@@ -6,16 +6,13 @@ Raper, Jonathan. "Geographic relevance." Journal of Documentation (2007)
 
 De Sabbata, Stefano, and Tumasch Reichenbacher. "Criteria of geographic relevance: an experimental study." International Journal of Geographical Information Science 26, no. 8 (2012): 1495-1520.
 
-
-
-
 **Corpora and mark-up**
 
 [Text Encoding Initiative (TEI)](https://tei-c.org/)
 
 [SpatialML](https://www.researchgate.net/publication/220147814_SpatialML_Annotation_scheme_resources_and_evaluation)
 
-Annotation
+**Annotation**
 
 **Question answering**
 Workshop on geographic question answering planned for September: http://spatial.ucsb.edu/giscience-geoQA-2020
