@@ -15,9 +15,11 @@ De Sabbata, Stefano, and Tumasch Reichenbacher. "Criteria of geographic relevanc
 **Annotation**
 
 **Question answering**
+
 Workshop on geographic question answering planned for September: http://spatial.ucsb.edu/giscience-geoQA-2020
 
 **Using triples to store spatial knowledge**
+
 Krzysztof Janowicz's group has done a great deal of work on linked geospatial data: https://geog.ucsb.edu/~jano/
 
 Some work showing some of the challenges in doing this automatically, without curation of online sources:
