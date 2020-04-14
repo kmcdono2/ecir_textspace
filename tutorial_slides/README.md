@@ -20,7 +20,7 @@ Please cite this tutorial as:
   editor = {Joemon M. Jose and Emine Yilmaz and Joao Magalhaes and Pablo Castells and Nicola Ferro and Mario J. Silva and Flavio Martins},
   series = {ECIR 2020},
   publisher = {Springer-Nature},
-  address = {Cham, Schwitzerland},
+  address = {Cham, Switzerland},
   doi = {https://doi.org/10.1007/978-3-030-45442-5},
 }
 ```
