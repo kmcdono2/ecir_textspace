@@ -16,7 +16,7 @@ Please cite this tutorial as:
   volume = {2},
   number = {{LNCS 12036}},
   pages = {698--702},
-  booktitle = {Proceedings of the 42nd European Conference on Information Retrieval, Lisbon, Portgual, 14-17 April 2020},
+  booktitle = {Proceedings of the 42nd European Conference on Information Retrieval, Lisbon, Portugal, 14-17 April 2020},
   editor = {Joemon M. Jose and Emine Yilmaz and Joao Magalhaes and Pablo Castells and Nicola Ferro and Mario J. Silva and Flavio Martins},
   series = {ECIR 2020},
   publisher = {Springer-Nature},
