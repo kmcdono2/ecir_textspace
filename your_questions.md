@@ -13,6 +13,7 @@ De Sabbata, Stefano, and Tumasch Reichenbacher. "Criteria of geographic relevanc
 [SpatialML](https://www.researchgate.net/publication/220147814_SpatialML_Annotation_scheme_resources_and_evaluation)
 
 **Annotation**
+The Recogito tool Katie mentioned for annotation: https://recogito.pelagios.org/
 
 **Question answering**
 
