@@ -11,8 +11,7 @@
 - [DH conference, organized by ADHO](http://adho.org/) @ADHOrg
   - [European Association for Digital Humanities](http://adho.org/)
 - [Pelagios Commons](https://pelagios.org/)
-
-
+- [GIScience Conference Series](https://www.giscience.org/conference-series/) Full papers published earlier by Springer LNCS and now open access as LIPICS (e.g. https://drops.dagstuhl.de/opus/portals/lipics/index.php?semnr=16081)
 
 ### Digital Humanities & GIR References
 
