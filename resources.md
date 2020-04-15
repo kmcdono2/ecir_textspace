@@ -13,6 +13,13 @@
 - [Pelagios Commons](https://pelagios.org/)
 - [GIScience Conference Series](https://www.giscience.org/conference-series/) Full papers published earlier by Springer LNCS and now open access as LIPICS (e.g. https://drops.dagstuhl.de/opus/portals/lipics/index.php?semnr=16081)
 
+- Our FTIR paper is gives (a biased and partial ;-)) overview of GIR and, if nothing else, contains references to a lot of work. I use it in teaching a Masters level course, and it is written to give an accessible introduction.
+
+Ross S. Purves, Paul Clough, Christopher B. Jones, Mark H. Hall and Vanessa Murdock (2018), "Geographic Information Retrieval: Progress and Challenges in Spatial Search of Text", Foundations and Trends® in Information Retrieval: Vol. 12: No. 2-3, pp 164-318. http://dx.doi.org/10.1561/1500000034
+You can find a preprint version [here](https://ir.shef.ac.uk/cloughie/papers/purves_et_al_working_paper.pdf)
+It doesn't discuss machine learning, and in particular recent advances at all, and it would be great to see someone write a review covering these innovations and their implications.
+
+
 ### Digital Humanities & GIR References
 
 Acheson, Elise, Stefano De Sabbata, and Ross S. Purves. “A Quantitative Analysis of Global Gazetteers: Patterns of Coverage for Common Feature Types.” Computers, Environment and Urban Systems 64 (2017): 309–320.
